@@ -361,9 +361,9 @@ function updateWorkDetails() {
         "HOÀ NHỊP GIÁNG SINH",
         "KO YÊU CŨNG CHẲNG CÔ ĐƠN",
         "LEAD ME TO SOMEWHERE?",
-        "GAME HONG? ICON DESIGN",
-        "UNIGLOW INFOGRAPHIC",
-        "FIESTA VIVA UX/UI DESIGN"
+        "GAME HONG? (ICON DESIGN)",
+        "UNIGLOW (INFOGRAPHIC)",
+        "FIESTA VIVA (UX/UI DESIGN)"
     ];
     const workYears = [
         "2021",
